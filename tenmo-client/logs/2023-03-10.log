@@ -1,0 +1,2 @@
+2023-03-10T10:58:12.2014028 401 : [no body]
+2023-03-10T10:58:26.6190114 401 : [{"timestamp":"2023-03-10T15:58:26.611+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/account/balance"}]
